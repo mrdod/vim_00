@@ -49,6 +49,7 @@ filetype indent on
 :set cino=>5
 
 :map "Ay "ay
+:set wildmenu
 
 """""""""""""""""
 "
